@@ -1,12 +1,12 @@
 This project was built using ReactJS
 
-##Implemented both required user stories and also the Optional one.
+## Implemented both required user stories and also the Optional one.
 
-Imported 3rd party libaries are -
+## Imported 3rd party libaries are -
 
  - React-router-dom
  
-Breif Technical Specs
+## Breif Technical Specs
 
 - Used react hooks
 - Used react router for navigation
