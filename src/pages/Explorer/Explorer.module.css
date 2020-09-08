@@ -1,0 +1,30 @@
+.FormWrapper {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 30px;
+  }
+  .title {
+      text-align: center;
+  }
+  .SearchButton {
+      text-decoration: none;
+      color: black;
+      text-transform: uppercase;
+      border: 1px solid black;
+      background-color: #fff;
+      height: 100%;
+      margin-left: 8px;
+      padding: 8px;
+      transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+  }
+  .SearchButton:hover {
+      background-color: black;
+      color: white;
+  }
+  .SearchField {
+      height: 100%;
+      padding: 8px;
+      outline: none;    
+  }
